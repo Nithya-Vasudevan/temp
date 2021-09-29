@@ -1,0 +1,1 @@
+label_map={1: "alexa echodot", 2: "alexa 4th gen", 3: "google_home", 4: "google homemini", 5: "iPad", 6: "macbook", 7:"smart tv", 8: "mobile", 9: "desktop", 10: "gamingconsole", 11:"streaming_device"}
